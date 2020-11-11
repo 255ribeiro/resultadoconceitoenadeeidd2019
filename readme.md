@@ -15,4 +15,9 @@
 [Gráfico pizza conceitos faixa NNE](./notebooks/PieNNeCondceitoFaixa.html)
 
 
+[Gráfico barra conceitos faixa BA](./notebooks/BarBACondceitoFaixa.html)
+
+[Gráfico pizza conceitos faixa BA](./notebooks/PieBACondceitoFaixa.html)
+
+
 
