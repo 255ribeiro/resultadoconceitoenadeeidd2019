@@ -1,6 +1,6 @@
 # Imagens
 
-[Diagrama de dispersão conceitos Continuo BR](./notebooks/Continuo_disp_br.htmlseitoFaixa.html)
+[Diagrama de dispersão conceitos continuo BR](./notebooks/Continuo_disp_br.htmlseitoFaixa.html)
 
 [Gráfico barra conceitos faixa BR](./notebooks/BarBrCondceitoFaixa.html)
 
