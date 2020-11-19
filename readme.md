@@ -2,6 +2,8 @@
 
 [Diagrama de dispersão conceitos continuo BR](./notebooks/Continuo_disp_br.html)
 
+[Boxplot Cursos de Arquitetura e Urbanismo do Brasil](./notebooks/Continuo_Box_br.html)
+
 [Gráfico barra conceitos faixa BR](./notebooks/BarBrCondceitoFaixa.html)
 
 [Gráfico pizza conceitos faixa BR](./notebooks/PieBrCondceitoFaixa.html)
